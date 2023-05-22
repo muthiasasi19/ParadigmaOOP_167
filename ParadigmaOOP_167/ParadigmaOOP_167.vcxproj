@@ -24,6 +24,7 @@
     <ProjectGuid>{33a75545-7434-4348-b9a4-fcc2eb35ef29}</ProjectGuid>
     <RootNamespace>ParadigmaOOP167</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Memberinlist_167</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
